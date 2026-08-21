@@ -258,7 +258,7 @@ If you find this project helpful or interesting, consider giving the repository 
 
 ### Author
 
-**Praveen Kamble**
+**Pravin Kamble**
 
 Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
