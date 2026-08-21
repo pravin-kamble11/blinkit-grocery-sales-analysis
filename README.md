@@ -256,7 +256,7 @@ The interactive nature of the dashboard allows users to move from a high-level b
 
 
 
-## 🧠 13. Skills Demonstrated
+## 🧠 11. Skills Demonstrated
 
 This project demonstrates practical experience in:
 
@@ -277,7 +277,7 @@ This project demonstrates practical experience in:
 
 ---
 
-## 📌 14. Project Highlights
+## 📌 12. Project Highlights
 
 | Project Attribute   | Details                                     |
 | ------------------- | ------------------------------------------- |
@@ -294,7 +294,7 @@ This project demonstrates practical experience in:
 
 ---
 
-## 🎯 15. Business Value
+## 🎯 13. Business Value
 
 The project demonstrates how raw transactional data can be transformed into a structured analytical solution.
 
@@ -311,7 +311,7 @@ This type of analysis can help business teams:
 
 ---
 
-## 👨‍💻 16. About the Project
+## 👨‍💻 14. About the Project
 
 This project was developed as part of my **Data Analytics portfolio** to demonstrate practical experience in transforming raw business data into an interactive Power BI dashboard.
 
@@ -321,7 +321,7 @@ It demonstrates hands-on experience with **Power BI, Power Query, DAX, Excel, da
 
 ---
 
-## ⭐ 17. Project Takeaway
+## ⭐ 15. Project Takeaway
 
 The key takeaway from this project is the ability to transform raw grocery sales data into an **interactive and business-focused analytical dashboard**.
 
@@ -329,7 +329,7 @@ The project demonstrates not only dashboard development skills but also the abil
 
 ---
 
-## 📬 18. Connect With Me
+## 📬 16. Connect With Me
 
 **Pravin Kamble**
 
