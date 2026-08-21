@@ -335,8 +335,11 @@ The project demonstrates not only dashboard development skills but also the abil
 
 **Aspiring Data Analyst | Power BI | SQL | Python | Excel**
 
-* LinkedIn: Add your LinkedIn profile URL
-* GitHub: Add your GitHub profile URL
+* LinkedIn: www.linkedin.com/in/
+pravin-kamble0245
+Vanity URL name
+
+* GitHub: https://github.com/pravin-kamble11
 
 ---
 
